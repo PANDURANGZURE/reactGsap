@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  padding: 0;
+  margin: 0;
+  /* font-family: saurav; */
+}
+
+/* @font-face {
+  font-family: saurav;
+  src: url(/public/font/l);
+} */
+
+
