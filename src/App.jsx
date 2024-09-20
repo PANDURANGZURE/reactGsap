@@ -38,14 +38,7 @@ useEffect(() =>{
 
     <>
       <main className='w-full text-white flex flex-col gap-5 items-center py-[15vh]'>
-        {/* <div className="card w-[20vw] sticky top- flex flex-col gap-5 px-[30px] py-[10vh] rounded-xl bg-[#383027]">
-          <img  className='w-[150px] ml-12' src="/image/1.png" alt="" />
-          <h1 className='text-5xl'>
-            The <br />
-            <span className='font-bold'>Alogrithm</span>
-          </h1>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, inventore.</p>
-        </div> */}
+        <h1>saurav</h1>
 
 
         {
